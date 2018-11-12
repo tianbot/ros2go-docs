@@ -10,7 +10,7 @@ ros2go （ROS To Go）是一个已经安装好Ubuntu和ROS系统，以及安装�
 * 硬件：  
 
 主控：银灿is903  
-闪存：美光Micron 20nm SLC  
+闪存：东芝 SLC 64G  
 * 软件：  
 三个分区：数据分区。光盘分区。系统分区  
 系统分区：Ubuntu 16.04.4 + ROS Kinetic  
