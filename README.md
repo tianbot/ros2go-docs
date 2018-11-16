@@ -1,4 +1,6 @@
 # ROS2GO
+**ROS2GO, 打开机器人世界的大门
+**ROS2GO, a key to starting ROS and Robotics
 
 
 ## 产品介绍： 
