@@ -93,6 +93,10 @@ BCM43225
 BCM43227
 BCM43228
 
+## 灰名单：
+## Grey list：
+BCM 
+
 ## 黑名单：
 ## Black list：
 抱歉，我们不支持任何360的外接WiFi设备。
