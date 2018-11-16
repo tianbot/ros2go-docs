@@ -31,6 +31,6 @@ Controller: Innostor is903 dual channel
 Nand: Toshiba 64G transmemory
 
 * Software:
-Patitions: Data, CD, HDD
-HDD Partition: Ubuntu 16.04.4 + ROS Kinetic
-CD Partition: ISO for the system
+Patitions: Data, CD, HDD  
+HDD Partition: Ubuntu 16.04.4 + ROS Kinetic  
+CD Partition: ISO for the system  
