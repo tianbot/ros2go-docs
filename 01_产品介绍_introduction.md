@@ -5,7 +5,7 @@
 容量：64G  
 接口：USB3.0  
 预装软件：Ubuntu16.04 + ROS Kinetic  
-启动方式：  Tianbot ROS2GO HDD支持UEFI 
+启动方式：  Tianbot ROS2GO HDD支持UEFI  
  Tianbot ROS2GO CD-ROM支持UEFI + Legacy  
 颜色：银 / 黑  
 网址：wiki.ros.org/ros2go  
