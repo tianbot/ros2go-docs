@@ -18,9 +18,9 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 **我们要能够从ROS2GO HDD启动，要保证我们的BIOS设置成UEFI模式，关闭Secure Boot，外部USB硬盘为第一启动顺序。**  
 使用ROS2GO之前，需要清楚您的电脑在UEFI的模式下如何从外部USB设备启动，如何关闭Secure Boot，一般就可以了。还有的情况比如Acer的Bios还要明确选择启动文件为/EFI/boot/bootx64.efi。这个部分请咨询您的电脑经销商。 我们也会维护常见的BIOS设置方式。  
 
-**不论是UEFI还是Legacy，都可以启动LiveCD。
+**不论是UEFI还是Legacy，都可以启动LiveCD。**
 
-还有问题的话，建议先百度，Bing，Google，尝试自己解决问题。当然，我们的技术工程师永远是您坚实的后盾。与老司机同在！
+还有问题的话，建议先百度，Bing，Google，尝试自己解决问题。当然，**我们的技术工程师永远是您坚实的后盾。与老司机同在！**
 
 
 
