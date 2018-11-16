@@ -1,7 +1,7 @@
 ## 购买
-淘宝链接：
-https://item.taobao.com/item.htm?id=581432149596
-零售价：RMB 599
+淘宝链接：  
+https://item.taobao.com/item.htm?id=581432149596  
+零售价：RMB 599  
 
 ## ROS2GO 产品介绍  
 
@@ -24,11 +24,11 @@ https://item.taobao.com/item.htm?id=581432149596
 第四步：进入桌面，打开《ROS2GO使用文档》，开始ROS！  
 
 
-## Where to buy
-Taobao:
-https://item.taobao.com/item.htm?id=581432149596
-Price: 99 USD
-Tips: Better ask a Chinese friend for help!
+## Where to buy  
+Taobao:  
+https://item.taobao.com/item.htm?id=581432149596  
+Price: 99 USD  
+Tips: Better ask a Chinese friend for help!  
 
 
 ## Introduction to ROS2GO  
