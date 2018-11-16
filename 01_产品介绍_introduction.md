@@ -1,3 +1,8 @@
+## 购买
+淘宝链接：
+https://item.taobao.com/item.htm?id=581432149596
+零售价：RMB 599
+
 ## ROS2GO 产品介绍  
 
 产品名称：Tianbot ROS2GO  
@@ -17,7 +22,15 @@
 第二步：启动PC并将启动设备更改为**UEFI：TIANBOT ROS2GO 1.00**  
 第三步：在Grub中选择第一个选项Ubuntu，回车！  
 第四步：进入桌面，打开《ROS2GO使用文档》，开始ROS！  
-  
+
+
+## Where to buy
+Taobao:
+https://item.taobao.com/item.htm?id=581432149596
+Price: 99 USD
+Tips: Better ask a Chinese friend for help!
+
+
 ## Introduction to ROS2GO  
 
 Product Name：Tianbot ROS2GO  
