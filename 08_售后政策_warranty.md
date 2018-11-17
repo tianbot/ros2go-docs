@@ -19,4 +19,4 @@ e)系统升级重置保修解释
 
 # Warranty Policy
 
-Currently we do not provide any warranties for the users overseas. Every ROS2GO will be fully tested before delivered. So please read the related docs carefully in order to guarantee that ROS2GO is suitable for your usage.
+Currently we do not provide any warranties for the users overseas (outside PRC). Every ROS2GO will be fully tested before delivered. So please read the related docs carefully in order to guarantee that ROS2GO is suitable for your usage.
