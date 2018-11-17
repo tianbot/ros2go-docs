@@ -96,7 +96,12 @@ BCM43228
 
 ## 灰名单：
 ## Grey list：
-BCM 
+- BCM 43142   
+如果您只在BCM 43142型号网卡的电脑上使用ROS2GO，可以参考以下链接安装。 因为会影响到MacBook的网卡驱动，所以默认是没有安装的。
+
+If you only use ROS2GO on a laptop with BCM 43142 wifi adapter, please do not hesitate to install the driver as the following link stated. However, it will affect MacBook wifi adapter and is not pre-installed.  
+
+https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx#Switching_between_drivers
 
 ## 黑名单：
 ## Black list：
