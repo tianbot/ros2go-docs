@@ -21,7 +21,9 @@ ROS2GO只是一个承载了开源免费软件的平台，我们会尽量把ROS2G
   ```
   sudo ntfsfix /dev/sda2  
   ```
- 
-
+  
+  - 进入Ubuntu后没有WiFi？
+  使用Ubuntu和ROS还是需要先有网络的。虽然经过我们的设置，不需要网络也可以跑大多数ROS下的例程。
+  请查阅[硬件支持](https://github.com/tianbot/ros2go/blob/master/03_%E7%A1%AC%E4%BB%B6%E6%94%AF%E6%8C%81_supported_hardwares.md)仔细检查一下是否支持您的WiFi型号。如果是需要额外安装驱动的无线网卡型号，您需要先用有线方式上网，进行驱动安装。如果确认是不支持的型号，您可以购买一个USB接口的WiFi适配器。如果给笔记本用，可以选择[EDUP翼联迷你usb无线接收器](https://detail.tmall.com/item.htm?id=579340555919)。如果给台式机用，可以选择[EDUP翼联千兆免驱动双频USB无线网卡](https://detail.tmall.com/item.htm?id=544565906232)
 
 - ROS使用问题 answers.ros.org
