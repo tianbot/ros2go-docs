@@ -15,12 +15,13 @@ HP Omen
 
 ## 灰名单：可以但是比较费劲
 ## Gray list：Need some special settings
-Acer F15 (请询问售后ROS2GO的qq群， plz inquire acer tech support)
-MacBookPro after 2016 （需要外接鼠标键盘, need external mouse and keyboard）
+Acer F15 (请询问售后ROS2GO的qq群， plz inquire ACER tech support)
+MacBookPro after 2016 Checkout this https://github.com/Dunedan/mbp-2016-linux/blob/master/README.md （需要外接鼠标键盘, need external mouse and keyboard）
 
 ## 黑名单：对不起，我们不能重新定义Ubuntu！
-## Black list： Sorry that we cannot rewrite Ubuntu
-Sony Vaio T13 before 2013 (不能进入HDD， cannot enter HDD)
+## Black list： Sorry that we cannot rewrite Ubuntu  
+
+- Sony Vaio T13 before 2013 (不能进入HDD， cannot enter HDD)
 
 
 # 网卡支持型号列表：  
