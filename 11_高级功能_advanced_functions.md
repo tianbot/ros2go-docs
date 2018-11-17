@@ -16,5 +16,6 @@ ros2go_video
 我们的公众号是服务号，虽然每个月只有四次推送，但是更不容易被大家错过。我们会持续的更新利用ROS2GO学习使用ROS的视频，
 因为能统一环境所以大家直接跟着视频操作应该可以快速的上手一些功能。
 
-大家可以扫码关注我们：
+大家可以扫码关注我们：  
+
 ![天之博特](https://github.com/tianbot/ros2go/blob/master/images/qrcode_for_gh_6482a7e961e7_344.jpg)
