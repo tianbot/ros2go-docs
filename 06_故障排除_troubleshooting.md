@@ -18,7 +18,7 @@ ROS2GO只是一个承载了开源免费软件的平台，我们会尽量把ROS2G
   修复的常用做法是，如果报错 Error mounting /dev/sda2
   那么就使用
   ```
-      sudo ntfsfix /dev/sda2  
+  sudo ntfsfix /dev/sda2  
   ```
   来修复。
 
