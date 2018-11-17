@@ -12,6 +12,12 @@ ROS2GO接入电脑后，会产生两个可以启动的设备。一个是USB外�
 如果你没有这么顺利。而且你也不是很了解计算机启动的一些常识，建议首先阅读一下阮一峰的博文：  
 http://www.ruanyifeng.com/blog/2013/01/secure_boot.html  
 **注意理解里面几个我们要在后面提到的名词：Legacy，UEFI，Secure Boot。**  
+我们简单的解释一下：  
+Legacy，看英文就知道是传统模式，现在不怎么用的。  
+UEFI， Unified Extensible Firmware Interface， 统一的拓展固件接口。也就是现在我们常用的启动方式。一般会把启动需要的文件放在硬盘的EFI分区（你平常看不到）。
+Secure Boot， 微软强硬的要求使用安全启动方式，很多预装Windows的机器都设置在UEFI的Secure Boot模式。
+
+这样就是说，我们现在用Ubuntu 16.04，应该是在UEFI的模式下然后关闭Secure Boot，可以明白吧？  
 
 然后明确一下：  
 
