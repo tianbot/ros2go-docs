@@ -8,6 +8,7 @@ https://item.taobao.com/item.htm?id=581432149596
 产品名称：Tianbot ROS2GO  
 外壳材质：铝合金  
 容量：64G  
+    其中10G为只读数据盘，4.7G为光盘驱动器，300M的EFI分区，以及剩余45G的Ubuntu根分区。  
 接口：USB3.0  
 预装软件：Ubuntu16.04 + ROS Kinetic  
 启动方式：  Tianbot ROS2GO HDD支持UEFI  
@@ -36,6 +37,7 @@ Tips: Better ask a Chinese friend for help!
 Product Name：Tianbot ROS2GO  
 Package Material：Aluminum  
 Volume：64G  
+    10G for read-only data partition, 4.7G for CD-ROM and 300M for EFI Partition, 45G for Ubuntu  
 Interface：USB3.0  
 Pre-installed：Ubuntu16.04 + ROS Kinetic  
 Boot Mode：  
