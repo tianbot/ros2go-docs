@@ -32,10 +32,10 @@
 
 ## 常用硬件驱动  Popular peripheral device drivers
 其中源码安装的驱动都放在tianbot_ws中. The source code is in tianbot_ws 
-- 思岚激光雷达驱动v1.9.0源码安装. Slamtec Rplidar v1.9.0 
-支持全系列rplidarA1, A2, A3. Support all series rplidar, e.g. A1, A2 and A3
-- 北阳激光雷达 urg_node. Hokuyo Laserscanner urg_node  
-URG-04LX-UG01
+- 思岚激光雷达驱动v1.9.0源码安装. 支持全系列rplidarA1, A2, A3.  
+Slamtec Rplidar v1.9.0. Support all series rplidar, e.g. A1, A2 and A3
+- 北阳激光雷达 urg_node.   
+Hokuyo Laserscanner urg_node, tested on URG-04LX-UG01.  
 
 - 西克激光雷达 SICK Laserscanner  
 
