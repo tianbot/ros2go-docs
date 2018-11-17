@@ -11,13 +11,14 @@ ROS2GO只是一个承载了开源免费软件的平台，我们会尽量把ROS2G
     
 
 - Ubuntu使用问题 askubuntu.com
-  - 进入Ubuntu后无法访问原来的Windows下的硬盘？ Error mounting /dev/sda? at /media/tianbot/???
+  - 进入Ubuntu后无法访问原来的Windows下的硬盘？ Error mounting /dev/sda? at /media/tianbot/???  
   这时一个使用双系统时常见的问题，最常见的原因是没有关闭Windows的快速启动，这样Windows并不是完全正常的关闭。请参考：
   https://askubuntu.com/questions/145902/unable-to-mount-windows-ntfs-filesystem-due-to-hibernation
+  如果您需要了解详情，参考第一条答案。如果需要修复方法，参考第二条答案。  
   修复的常用做法是，如果报错 Error mounting /dev/sda2
   那么就使用
   ```
-  sudo ntfsfix /dev/sda2
+      sudo ntfsfix /dev/sda2  
   ```
   来修复。
 
