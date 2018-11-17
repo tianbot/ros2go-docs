@@ -17,4 +17,4 @@ ros2go_video
 因为能统一环境所以大家直接跟着视频操作应该可以快速的上手一些功能。
 
 大家可以扫码关注我们：
-
+[天之博特](https://github.com/tianbot/ros2go/blob/master/images/qrcode_for_gh_6482a7e961e7_344.jpg)
