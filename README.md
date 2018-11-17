@@ -1,8 +1,8 @@
 # ROS2GO  
 https://item.taobao.com/item.htm?id=581432149596  
 
-**ROS2GO, 打开机器人世界的大门**  
-**ROS2GO, a key to starting ROS and Robotics**  
+**ROS2GO, 半分钟，为您打开机器人世界的大门**  
+**ROS2GO, starting ROS in half a minute！**  
 
 
 ## 产品介绍： 
