@@ -15,7 +15,7 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 我们简单的解释一下：  
 **Legacy，看英文就知道是传统模式，现在不怎么用的。**    
 **UEFI， Unified Extensible Firmware Interface， 统一的拓展固件接口。也就是现在我们常用的启动方式。一般会把启动需要的文件放在硬盘的EFI分区（你平常看不到）。**  
-**Secure Boot， 微软强硬的要求使用安全启动方式，很多预装Windows的机器都设置在UEFI的Secure Boot模式。**  
+**Secure Boot， 微软强硬的要求使用安全启动方式，在UEFI模式下，只认windows的启动用EFI文件。很多预装Windows的机器都设置在UEFI的Secure Boot模式。**  
 
 这样就是说，我们现在用Ubuntu 16.04，应该是在UEFI的模式下然后关闭Secure Boot，可以明白吧？  
 
