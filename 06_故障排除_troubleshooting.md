@@ -17,11 +17,11 @@ ROS2GO只是一个承载了开源免费软件的平台，我们会尽量把ROS2G
   https://askubuntu.com/questions/145902/unable-to-mount-windows-ntfs-filesystem-due-to-hibernation
   如果您需要了解详情，参考第一条答案。如果需要修复方法，参考第二条答案。  
   修复的常用做法是，如果报错 Error mounting /dev/sda2  
-  那么就使用  
+  那么就使用来修复。
   ```
   sudo ntfsfix /dev/sda2  
   ```
-  来修复。
+ 
 
 
 - ROS使用问题 answers.ros.org
