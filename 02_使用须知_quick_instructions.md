@@ -27,7 +27,7 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 **我们要能够从ROS2GO HDD启动，要保证我们的BIOS设置成UEFI模式，关闭Secure Boot，外部USB硬盘为第一启动顺序。**  
 如果您曾经尝试过安装Windows+Ubuntu双系统，那么很大概率您已经设置过外部设备启动并关闭了Secure Boot（安全启动模式，新一点的电脑Bios比较多已经是中文系统），很大概率您在使用ROS2GO时会一次成功。  
 
->***如果您是第一次尝试使用双系统（本质上ROS2GO还是双系统），使用ROS2GO之前，一定要先清楚您的电脑在UEFI的模式下如何从外部USB设备启动，如何关闭Secure Boot。***  
+>***==如果您是第一次尝试使用双系统（本质上ROS2GO还是双系统），使用ROS2GO之前，一定要先清楚您的电脑在UEFI的模式下如何从外部USB设备启动，如何关闭Secure Boot。#00ff00==***  
 
 还有的情况比如Acer的Bios还要明确选择启动文件，在ROS2GO中，启动文件为/EFI/boot/bootx64.efi。有任何疑问请咨询您的电脑经销商。 我们也会维护常见的BIOS设置方式。  
 
