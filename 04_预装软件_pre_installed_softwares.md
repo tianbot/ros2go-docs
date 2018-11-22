@@ -1,3 +1,10 @@
+# 操作系统
+- Linux发行版 Ubuntu 16.04.5
+- Linux内核 （可在grub菜单中通过Advanced进行选择，在LiveCD启动中则可以直接选择）
+  - 4.15.0.38-generic HWE （硬件加强）
+  - 4.4.0.138-generic LTS （长期支持）
+- ROS Kinetic
+
 # 通用软件 Application Software
 - Visual Studio Code - 广受好评的跨平台 IDE  
 - WPS Office WPS, - 唯一能在 Linux 平台较完美处理 office 文档的国产良心软件   
