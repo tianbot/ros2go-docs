@@ -1,5 +1,5 @@
 # 操作系统 Operating System
-- Linux发行版 Ubuntu 16.04.5
+- Linux发行版 Ubuntu 16.04.5 LTS
 - Linux内核 （可在grub菜单中通过Advanced进行选择，在LiveCD启动中则可以直接选择）
   - 4.15.0.38-generic HWE （硬件加强）
   - 4.4.0.138-generic LTS （长期支持）
