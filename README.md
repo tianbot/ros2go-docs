@@ -16,7 +16,7 @@ ROS2GO （ROS To Go）是一个已经安装好Ubuntu和ROS系统，以及安装�
 
 * 软件：  
 三个分区：数据分区。光盘分区。系统分区  
-系统分区：Ubuntu 16.04.4 + ROS Kinetic  
+系统分区：Ubuntu 16.04.5 LTS + ROS Kinetic  
 光盘分区：系统分区的安装镜像  
 
 
@@ -32,5 +32,5 @@ Nand: Toshiba 64G transmemory
 
 * Software:
 Patitions: Data, CD, HDD  
-HDD Partition: Ubuntu 16.04.4 + ROS Kinetic  
+HDD Partition: Ubuntu 16.04.5 LTS + ROS Kinetic  
 CD Partition: ISO for the system  
