@@ -5,12 +5,14 @@ Will keep you posted.
 # Brand and Type of the PCs  
 
 ## 白名单：畅快玩耍   
-## White list:  So Easy!
-Lenovo
-Dell
-Thinkpad
-MacBook Pro (before 2016)
-HP Omen
+## White list:  So Easy!  
+###Lenovo  
+###Dell  
+###Thinkpad  
+###MacBook Pro  
+(before 2016)  
+###HP
+Omen    
 
 
 ## 灰名单：可以但是比较费劲或者还有部分问题
