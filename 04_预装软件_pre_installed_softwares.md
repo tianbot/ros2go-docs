@@ -35,6 +35,7 @@
 - STDR仿真器 stdr_simulator
 - 小课堂stdr_tutorials
 - 小课堂ros_voice语音交互功能包 Chinese version pocketsphinx
+- 慕课mooc《机器人操作系统入门》课程代码
 - tianbot_racecar  
 
 ## 常用硬件驱动  Popular peripheral device drivers
