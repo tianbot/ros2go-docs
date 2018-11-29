@@ -6,12 +6,12 @@ Will keep you posted.
 
 ## 白名单：畅快玩耍   
 ## White list:  So Easy!  
-###Lenovo  
-###Dell  
-###Thinkpad  
-###MacBook Pro  
+### Lenovo  
+### Dell  
+### Thinkpad  
+### MacBook Pro  
 (before 2016)  
-###HP
+### HP
 Omen    
 
 
