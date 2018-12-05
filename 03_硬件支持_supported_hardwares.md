@@ -1,11 +1,9 @@
 我们只能列出经过测试的型号，我们努力了但是还不行的型号。这个列表会经常更新。    
 Will keep you posted.  
 
-# 电脑型号支持列表：  
-# Brand and Type of the PCs  
+# 电脑型号支持列表：  Brand and Type of the PCs  
 
-## 白名单：畅快玩耍   
-## White list:  So Easy!  
+## 白名单：畅快玩耍   White list:  So Easy!  
 ### Lenovo  
 ### Dell  
 ### Thinkpad  
@@ -15,22 +13,18 @@ Will keep you posted.
 Omen    
 
 
-## 灰名单：可以但是比较费劲或者还有部分问题
-## Gray list：Need some special settings or still got some issues
+## 灰名单：可以但是比较费劲或者还有部分问题 Gray list：Need some special settings or still got some issues
 Acer F15 (请询问售后ROS2GO的qq群， plz inquire ACER tech support)  
 MacBookPro after 2016 请仔细阅读链接了解对新的MBP的支持情况。Checkout this https://github.com/Dunedan/mbp-2016-linux/blob/master/README.md （需要外接鼠标键盘，有发热问题。 need external mouse and keyboard, overheating）
 
-## 黑名单：可能你完全无法进入HDD或者完全不能从ROS2GO启动
-## Black list： Sorry that we cannot rewrite Ubuntu  
+## 黑名单：可能你完全无法进入HDD或者完全不能从ROS2GO启动 Black list： Sorry that we cannot rewrite Ubuntu  
 
 - Sony Vaio T13 before 2013 (不能进入HDD， cannot enter HDD)
 
 
-# 网卡支持型号列表：  
-# Type of wifi adapter supported：  
+# 网卡支持型号列表：  Type of wifi adapter supported：  
 
-## 白名单：  
-## White list：  
+## 白名单：  White list：  
 ### rtl
 rtl8188ee
 rtl8188eu
@@ -96,8 +90,7 @@ BCM43225
 BCM43227
 BCM43228
 
-## 灰名单：
-## Grey list：
+## 灰名单： Grey list：
 - BCM 43142   
 如果您只在BCM 43142型号网卡的电脑上使用ROS2GO，可以参考以下链接安装。 因为会影响到MacBook的网卡驱动，所以默认是没有安装的。
 
@@ -105,6 +98,5 @@ If you only use ROS2GO on a laptop with BCM 43142 wifi adapter, please do not he
 
 https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx#Switching_between_drivers
 
-## 黑名单：
-## Black list：
+## 黑名单： Black list：  
 抱歉，我们不支持任何360的外接WiFi设备。
