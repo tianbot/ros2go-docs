@@ -16,6 +16,7 @@ Omen
 ## 灰名单：可以但是比较费劲或者还有部分问题 Gray list：Need some special settings or still got some issues
 Acer F15 (请询问售后ROS2GO的qq群， plz inquire ACER tech support)  
 MacBookPro after 2016 请仔细阅读链接了解对新的MBP的支持情况。Checkout this https://github.com/Dunedan/mbp-2016-linux/blob/master/README.md （需要外接鼠标键盘，有发热问题。 need external mouse and keyboard, overheating）
+Lenovo Y7000 不能正常关机
 
 ## 黑名单：可能你完全无法进入HDD或者完全不能从ROS2GO启动 Black list： Sorry that we cannot rewrite Ubuntu  
 
