@@ -4,6 +4,10 @@ Will keep you posted.
 # 电脑型号支持列表：  Brand and Type of the PCs  
 
 ## 白名单：畅快玩耍   White list:  So Easy!  
+### 台式机 Desktops  
+经测试学校和实验室的绝大多数台式机启动暂时没有碰到问题。  
+Most of the desktops are tested without problems.  
+
 ### Lenovo  
 #### Thinkpad  完美支持
 Tested on X1 Carbon, X220
