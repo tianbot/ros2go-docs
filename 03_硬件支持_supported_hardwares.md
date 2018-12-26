@@ -26,10 +26,11 @@ MacBookPro after 2016 请仔细阅读链接了解对新的MBP的支持情况。C
 Lenovo Y7000 不能正常关机
 Lenovo 小新 7000系列可能关机不正常
 
-## 黑名单：可能你完全无法进入HDD或者完全不能从ROS2GO启动 Black list： Sorry that we cannot rewrite Ubuntu  
+## 黑名单：可能你完全无法进入HDD或者完全不能从ROS2GO启动 Black list： Sorry that you laptop must suppport UEFI boot mode  
 
 - Sony Vaio T13 before 2013 (不能进入HDD， cannot enter HDD)
-
+- 如果您使用的是12年以前的笔记本电脑，请务必仔细检查是否支持UEFI启动。laptops which do not support UEFI cannot boot into ROS2GO HDD, especially before 2012 pls check carefully.
+  Lenovo Y460, Y560, etc.
 
 # 网卡支持型号列表：  Type of wifi adapter supported：  
 
