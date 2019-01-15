@@ -9,15 +9,16 @@ Will keep you posted.
 Most of the desktops are tested without problems.  
 
 ### Lenovo  
+E470, G50
 #### Thinkpad  完美支持
-Tested on X1 Carbon, X220
+Tested on X1 Carbon, X220, 
 
 ### Dell  
 
 ### MacBook Pro  
 (before 2016)  
 ### HP
-Omen    
+Omen  
 
 
 ## 灰名单：可以但是比较费劲或者还有部分问题 Gray list：Need some special settings or still got some issues
