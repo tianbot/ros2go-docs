@@ -2,4 +2,4 @@ title: Tianbot ROS2GO
 description: ROS2GO is a ready-to-go high speed USB flash drive with ROS installed.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-dinky
+theme: jekyll-theme-slate
