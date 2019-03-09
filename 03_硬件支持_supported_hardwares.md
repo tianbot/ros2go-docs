@@ -17,9 +17,15 @@ Tested on X1 Carbon, X220,
 
 ### MacBook Pro  
 (before 2016)  
-### HP
-Omen  
 
+### HP
+Omen17Pro  
+
+### Huawei  
+荣耀MagicBook锐龙版  
+
+### Xiaomi
+Air13.3 Air15.6Pro  
 
 ## 灰名单：可以但是比较费劲或者还有部分问题 Gray list：Need some special settings or still got some issues
 Acer F15 (请询问售后ROS2GO的qq群， plz inquire ACER tech support)  
