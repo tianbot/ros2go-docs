@@ -11,8 +11,7 @@ ROS2GO （ROS To Go）是一个已经安装好Ubuntu和ROS系统，以及安装�
 
 ## 产品说明：  
 * 硬件：  
-主控：银灿is903双通道  
-闪存：东芝 SLC 64G  
+64G高速闪存  
 
 * 软件：  
 三个分区：数据分区。光盘分区。系统分区  
@@ -27,8 +26,7 @@ Moreover, ros2go is also a solution for users who are using virtual machine and 
 
 ## Specifications:
 * Hardware:  
-Controller: Innostor is903 dual channel  
-Nand: Toshiba 64G transmemory
+64G high-speed transmemory  
 
 * Software:
 Patitions: Data, CD, HDD  
