@@ -40,7 +40,17 @@ roslaunch turtlebot_stage turtlebot_in_stage.launch
 这里是传送门。
 
 [ROS探索总结（四十八）——ROS机器人实例 （PR2）](http://www.guyuehome.com/1753)  
+
+```
+roslaunch pr2_gazebo pr2_empty_world.launch
+roslaunch pr2_teleop teleop_keyboard.launch
+```
 [ROS探索总结（五十）——ROS机器人实例 （Universal Robots）](http://www.guyuehome.com/1834)
 
+```
+roslaunch ur_gazebo ur5.launch
+roslaunch ur5_moveit_config ur5_moveit_planning_execution.launchsim:=true
+roslaunch ur5_moveit_config moveit_rviz.launch config:=true
+```
 基本的ROS测试就是这样了，祝大家使用愉快～
 
