@@ -170,3 +170,11 @@ compress_html:
   ignore:
     envs: development
 
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
