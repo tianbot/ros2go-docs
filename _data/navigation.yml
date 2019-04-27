@@ -1,3 +1,4 @@
+# main links
 main:
   - title: "Posts"
     url: /posts/
@@ -7,13 +8,15 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-    
+
+# documentation links
 docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
         url: /docs/introduction/
-
+      - title: "about"
+        url: /about/
 
 # sidebar navigation list sample
 sidebar-sample:
