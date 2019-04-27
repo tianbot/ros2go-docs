@@ -1,6 +1,6 @@
 ---
 title: "introduction"
-permalink: /introduction/
+permalink: /docs/introduction/
 ---
 
 ## 购买
