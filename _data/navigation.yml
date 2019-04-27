@@ -6,7 +6,7 @@ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /docs/introduction/
+        url: /introduction/
       - title: "about"
         url: /about/
       - title: "instruction"
