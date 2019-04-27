@@ -3,14 +3,16 @@ main:
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: 使用手册 Getting Started
     children:
-      - title: "Quick-Start Guide"
+      - title: "01. 产品介绍_introduction"
         url: /introduction/
-      - title: "about"
-        url: /about/
-      - title: "instruction"
+      - title: "02. 使用须知_quick_start"
         url: /instruction/
+  - title: 关于我们 About Us
+    children:
+      - title: "关于我们"
+        url: /about/
 
 # sidebar navigation list sample
 sidebar-sample:
