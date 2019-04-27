@@ -16,9 +16,7 @@
 title: ROS2GO
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ROS2GO (ROS To Go) 是一个高速闪存U盘。ROS2GO (ROS To GO) is a ready-to-go high speed USB flash drive
 baseurl: "/ros2go"
 url: https://tianbot.github.io
 twitter_username: username
@@ -74,11 +72,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
