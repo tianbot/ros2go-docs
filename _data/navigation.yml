@@ -9,6 +9,8 @@ docs:
         url: /docs/introduction/
       - title: "about"
         url: /about/
+      - title: "instruction"
+        url: /instruction/
 
 # sidebar navigation list sample
 sidebar-sample:
