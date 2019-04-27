@@ -1,3 +1,8 @@
+---
+title: "introduction"
+permalink: /introduction/
+---
+
 ## 购买
 淘宝链接：  
 https://item.taobao.com/item.htm?id=581432149596  
