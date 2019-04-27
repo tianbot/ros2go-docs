@@ -3,3 +3,11 @@ description: ROS2GO is a ready-to-go high speed USB flash drive with ROS install
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
