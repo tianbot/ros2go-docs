@@ -84,3 +84,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+  defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
