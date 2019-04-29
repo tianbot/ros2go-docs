@@ -8,7 +8,7 @@ docs:
       - title: "01. 产品介绍 Introduction"
         url: /introduction/
       - title: "02. 使用须知 Quick Start"
-        url: /instruction/
+        url: /quick_start/
       - title: "03. 硬件支持 Supported Hardwares"
         url: /supported_hardwares/
       - title: "04. 预装软件 Pre-installed Softwares"
