@@ -1,39 +1,37 @@
 ---
-title: "ROS2GO"
+layout: splash
 permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.2">Latest release v4.16.2</a></small>
+feature_row:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
-# ROS2GO  
-[**点击这里进入淘宝购买 click this link to purchase**](https://item.taobao.com/item.htm?id=581432149596)  
-
-**ROS2GO, 半分钟，为您打开机器人世界的大门**  
-**ROS2GO, starting ROS in half a minute！**  
-
-
-## 产品介绍： 
-
-ROS2GO （ROS To Go）是一个已经安装好Ubuntu和ROS系统，以及安装完常用功能包并且配置好系统环境的高速U盘。只要你的电脑是x86架构，比如Thinkpad或者MacBook Pro (2016年后的暂时有原生键盘触摸板不支持的问题，只能外接)，就可以使用ROS To Go，与电脑上原本安装的操作系统无关。像ROS To Go的名字一样，我们希望能让ROS学习的新手和小白用户在短短几分钟内就可以体验ROS的乐趣，而无需繁琐的安装过程。当然，ROS To Go还适合一直用虚拟机但是希望装双系统的用户，希望用一个U盘就能带走自己工作环境的用户，以及希望标准化用户环境的ROS课堂上使用。  
-
-## 产品说明：  
-* 硬件：  
-64G高速闪存  
-
-* 软件：  
-三个分区：数据分区。光盘分区。系统分区  
-系统分区：Ubuntu 16.04.5 LTS + ROS Kinetic  
-光盘分区：系统分区的安装镜像  
-
-
-## Introduction:
-ROS2GO (ROS To Go) is a ready-to-go high speed USB flash drive, which has Ubuntu, ROS and commonly used packages installed, and can be booted from external USB drive. x86 PCs which meets the minimal requirement for Ubuntu and ROS can use ROS to go, regardless the original operating systems installed. It is intend to provide a way for novice ros users to start ROS in minutes without tedious installation procedures.
-
-Moreover, ros2go is also a solution for users who are using virtual machine and willing to change to dual boot systems; users who want a very convenient mobility for their own environment settings; and most important, for lecturers who want to uniform their teaching environments.
-
-## Specifications:
-* Hardware:  
-64G high-speed transmemory  
-
-* Software:
-Patitions: Data, CD, HDD  
-HDD Partition: Ubuntu 16.04.5 LTS + ROS Kinetic  
-CD Partition: ISO for the system  
+{% include feature_row %}
