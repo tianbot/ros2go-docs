@@ -1,6 +1,8 @@
 # main links
 main:
-
+  - title: "About"
+    url: /about/
+    
 # documentation links
 docs:
   - title: 使用手册 Getting Started
