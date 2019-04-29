@@ -5,10 +5,33 @@ main:
 docs:
   - title: 使用手册 Getting Started
     children:
-      - title: "01. 产品介绍_introduction"
+      - title: "01. 产品介绍 Introduction"
         url: /introduction/
-      - title: "02. 使用须知_quick_start"
+      - title: "02. 使用须知 Quick Start"
         url: /instruction/
+      - title: "03. 硬件支持 Supported Hardwares"
+        url: /supported_hardwares/
+      - title: "04. 预装软件 Pre-installed Softwares"
+        url: /pre_installed_softwares/
+      - title: "05. 售前疑惑 Frequently Asked Questions"
+        url: /faq/
+      - title: "06. 故障排除 Trouble Shooting"
+        url: /troubleshooting/
+      - title: "07. 已知问题 Known Issues"
+        url: /known_issues/
+      - title: "08. 售后政策 Warranty"
+        url: /warranty/
+      - title: "09. 更新日志 Updated Log"
+        url: /updated_log/
+      - title: "10. 开始使用ROS Start with ROS"
+        url: /start_with_ros/
+      - title: "11. 高级功能 Advanced Functions"
+        url: /advanced_functions/
+      - title: "12. 外接设备 Peripheral Devices"
+        url: /peripheral_devices/
+      - title: "13. 工作空间 Workspaces"
+        url: /workspaces/
+          
   - title: 关于我们 About Us
     children:
       - title: "关于我们"
