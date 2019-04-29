@@ -25,7 +25,7 @@ docs:
         url: /warranty/
       - title: "09. 更新日志 Updated Log"
         url: /updated_log/
-      - title: "10. 开始使用ROS Start with ROS"
+      - title: "10. 开始使用 Start with ROS"
         url: /start_with_ros/
       - title: "11. 高级功能 Advanced Functions"
         url: /advanced_functions/
