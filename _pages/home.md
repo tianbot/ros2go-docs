@@ -2,7 +2,6 @@
 layout: single
 title: home
 permalink: /
-header:
 ---
 
 # ROS2GO  
