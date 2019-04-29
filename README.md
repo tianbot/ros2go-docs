@@ -1,6 +1,6 @@
 ---
 title: "ROS2GO"
-permalink: /
+permalink: /readme/
 ---
 
 # ROS2GO  
