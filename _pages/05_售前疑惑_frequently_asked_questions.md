@@ -1,3 +1,8 @@
+---
+title: "售前疑惑 Frequently Asked Questions"
+permalink: /faq/
+---
+
 - ROS2GO是U盘么？  
 是的，ROS2GO是一个U盘。但是他不仅仅是一个U盘。如果您想要了解ROS2GO，建议可以先读一读下列文章。
 

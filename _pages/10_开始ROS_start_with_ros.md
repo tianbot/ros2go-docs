@@ -1,4 +1,7 @@
-# 开始使用ROS
+---
+title: "开始使用ROS Start with ROS"
+permalink: /start_with_ros/
+---
 
 如果大家完成了之前的任务，成功从UEFI的外接硬盘启动，HWE或者LTS内核没问题能够进入，能够成功的进入桌面，并且网卡可以驱动，
 那么恭喜现在我们可以开始高兴的玩耍ROS了。  

@@ -1,4 +1,7 @@
-# 物超所值的高级功能
+---
+title: "物超所值的高级功能 Advanced Functions"
+permalink: /advanced_functions/
+---
 
 ## 不可以估价的视频课程
 首先就是送给大家的睿慕课视频。只要打开终端，输入
@@ -18,4 +21,4 @@ ros2go_video
 
 大家可以扫码关注我们：  
 
-![天之博特](https://github.com/tianbot/ros2go/blob/master/images/qrcode_for_gh_6482a7e961e7_344.jpg)
+![天之博特](https://github.com/tianbot/ros2go/blob/master/assets/images/qrcode_for_gh_6482a7e961e7_344.jpg)

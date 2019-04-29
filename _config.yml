@@ -22,7 +22,6 @@ url: https://tianbot.github.io
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes

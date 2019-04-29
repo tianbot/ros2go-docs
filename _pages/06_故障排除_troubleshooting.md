@@ -1,4 +1,7 @@
-# 常见的故障排除 Trouble Shooting
+---
+title: "故障排除 Trouble Shooting"
+permalink: /troubleshooting/
+---
 
 首先要和各位ROS2GO的用户们说一下，非常感谢大家的支持!  
 相信大家都了解到了，Ubuntu和ROS都是开源而且免费的。 整个社区的发展离不开每一个人的力量。

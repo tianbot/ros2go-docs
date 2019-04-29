@@ -1,9 +1,7 @@
 ---
-title: "使用须知"
-permalink: /instruction/
----
-
-# 使用须知  
+title: "使用须知 Quick Start"
+permalink: /quick_start/
+--- 
 
 购买之前，请务必详细阅读本节内容。运气好的话，插上ROS2GO直接开机，就可以进入Ubuntu系统了，但这毕竟只是一部分情况。即便如此，为了享受ROS2GO提供的极大便携性，最好也是仔细了解一下我们电脑的启动相关知识。
 

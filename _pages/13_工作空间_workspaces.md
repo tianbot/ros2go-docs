@@ -1,4 +1,9 @@
-# 工作空间设置
+---
+title: "工作空间 Workspaces"
+permalink: /workspaces/
+---
+
+## 工作空间设置
 如果打开.bashrc查看，会看到在文件的末尾，我们用source和--extend，包含了很多工作空间。
 
 ```
@@ -14,7 +19,7 @@ tianbot_ws中，是放置天之博特的机器人代码。暂时只有racecar的
 study_ws中，就是给大家放置的大量的学习用的源码。包括官网最火的ros_tutorials，古月老师的marm和mrobot，小课堂的stdr_tutorials和ros_voice， 还有慕课ros课程的源码。
 cartographer_ws中放入的则是cartographer的源码。
 
-# 工作空间开关
+## 工作空间开关
  
 大家可能觉得在.bashrc中，这种工作空间的设置的方式和许多人的设置方式都不太一样。但是这是田老师在工作研发以及教学中，总结出的比较好的工作空间设置方式。  
 
