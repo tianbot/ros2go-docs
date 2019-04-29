@@ -3,7 +3,6 @@ title: "ROS2GO"
 permalink: /readme/
 ---
 
-# ROS2GO  
 [**点击这里进入淘宝购买 click this link to purchase**](https://item.taobao.com/item.htm?id=581432149596)  
 
 **ROS2GO, 半分钟，为您打开机器人世界的大门**  
