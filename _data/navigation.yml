@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "About"
+  - title: "Github"
+    url: https://github.com/tianbot/ros2go
+  - title: "About Us"
     url: /about/
     
 # documentation links
@@ -35,9 +37,7 @@ docs:
         url: /workspaces/
           
   - title: 关于我们 About Us
-    children:
-      - title: "关于我们"
-        url: /about/
+    url: /about/
 
 # sidebar navigation list sample
 sidebar-sample:
