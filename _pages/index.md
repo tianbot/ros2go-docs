@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ROS2GO
+title: ROS2GO用户手册 ROS2GO User Manual
 permalink: /
 ---
 
