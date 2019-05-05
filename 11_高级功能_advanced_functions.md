@@ -21,4 +21,4 @@ ros2go_video
 
 大家可以扫码关注我们：  
 
-![天之博特](https://github.com/tianbot/ros2go/blob/master/assets/images/qrcode_for_gh_6482a7e961e7_344.jpg)
+![天之博特](https://github.com/tianbot/ros2go/raw/master/assets/images/qrcode_for_gh_6482a7e961e7_344.jpg)
