@@ -12,7 +12,7 @@ permalink: /known_issues/
 联想小新 锐7000 可以查阅 https://www.zhihu.com/question/295711588  
 联想 拯救者  Y7000  
 
-## 网卡驱动篇(主要是一些guo'xin无线驱动
+## 网卡驱动篇(主要是一些过新或奇葩的无线网卡)
 
 - 华为 MateBook 13寸(Intel Wireless-AC 9260)
 
