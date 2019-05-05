@@ -12,3 +12,44 @@ permalink: /known_issues/
 联想小新 锐7000 可以查阅 https://www.zhihu.com/question/295711588  
 联想 拯救者  Y7000  
 
+## 网卡驱动篇(主要是一些过新或奇葩的无线网卡)
+
+- 华为 MateBook 13寸(Intel Wireless-AC 9260)
+
+这款无线网卡的情况: 能驱动, 但网络很卡, 容易掉线, 完全不如Windows系统下的表现, 现在附上解决方案如下: 
+
+> 本方案出处: [PSA for owners of Intel Wireless-AC 9260
+](https://www.reddit.com/r/Ubuntu/comments/a61qq1/psa_for_owners_of_intel_wirelessac_9260/)
+
+1. 先确认你是不是这块卡, 命令如下:
+
+```shell
+lspci -v | grep Network
+# 输出如下的话可以确认
+00:14.3 Network controller: Intel Corporation Device 9df0 (rev 30)
+```
+
+2. 接下来你需要做的就是`升级内核`, 没错, 新的内核改善了这款网卡在 Linux 下的性能表现, 起码不会时断时续了
+
+```shell
+sudo apt-add-repository -y ppa:teejee2008/ppa
+sudo apt update
+sudo apt install ukuu  # 这是一个比较好用的gui应用, 可以帮助你升级当前系统的内核
+```
+
+3. 可选的额外操作
+
+介于`ipv6`现在还没什么卵用的情况下, 你可以选择禁掉这货来获得可能的网络性能提升, via: [how-to-disable-ipv6-in-ubuntu](https://www.neuraldump.net/2016/11/how-to-disable-ipv6-in-ubuntu-16-04-xenial-xerus/#comment-22453)
+
+```shell
+# create the long-life config file
+echo "net.ipv6.conf.all.disable_ipv6 = 1
+net.ipv6.conf.default.disable_ipv6 = 1
+net.ipv6.conf.lo.disable_ipv6 = 1" | sudo tee /etc/sysctl.d/99-my-disable-ipv6.conf
+
+# ask the system to use it
+sudo service procps reload
+
+# check the result, if it says 1, it worked
+cat /proc/sys/net/ipv6/conf/all/disable_ipv6
+```
