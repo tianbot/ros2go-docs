@@ -47,6 +47,7 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 现代电脑最常用的进入Bios按键为：F1，F2，F12，同时还有很多使用 Del，ESC，F9，F10，可以开机时重复快速按压试验。一般都可以成功看到Bios的画面。
 
 一些不同的按键我们记录在下，大家如果有常见的电脑但是按键与以上不同的可以给我们提交Pull Request。
+
 |  笔记本品牌  |    按键     |
 |    ---      |     ---     |
 |  Thinkpad   |  Enter之后F1  |
@@ -57,8 +58,9 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 ![ros2go grub](https://github.com/tianbot/ros2go/raw/master/assets/images/grub.png)  
 
  - 我们提供了不同的内核供大家选择
-   - HWE 硬件增强版，新硬件的功能支持更好
-   - LTS 长期支持版，老配置的电脑更加稳定
+   - HWE 4.15.0内核，硬件增强版，新硬件的功能支持更好
+   - LTS 4.4.0内核，长期支持版，老配置的电脑更加稳定  
+
 ![ros2go kernels](https://github.com/tianbot/ros2go/raw/master/assets/images/kernels.png) 
 
 4、现在是一个纯净的Ubuntu + ROS Kinetic，开始使用！  
