@@ -54,11 +54,11 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 |  Mac        |  Option      |
 |  Sony Vaio  |  Assist      |
 
-3、进入grub，选择Ubuntu
+3、进入grub，选择Ubuntu，默认为HWE内核，但是有些设备可能启动失败，则参考下文更换内核启动。
 ![ros2go grub](https://github.com/tianbot/ros2go/raw/master/assets/images/grub.png)  
 
  - 如果选择Advanced options for Ubuntu，则可以选择系统内核。我们提供了两种内核供大家选择
-   - HWE 4.15.0内核，硬件增强版，新硬件的功能支持更好
+   - HWE 4.15.0内核，硬件增强版，新硬件的功能支持更好，
    - LTS 4.4.0内核，长期支持版，老配置的电脑更加稳定  
 
 ![ros2go kernels](https://github.com/tianbot/ros2go/raw/master/assets/images/kernels.png) 
@@ -74,4 +74,7 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 
 ## 进入系统
 不论是使用HDD还是LiveCD，看到如下画面就说明已经成功启动了！  
+请牢记以下信息：
+*** 用户名：tianbot ***
+*** 密码：ros ***
 ![ros2go desktop](https://github.com/tianbot/ros2go/raw/master/assets/images/desktop.png) 
