@@ -48,16 +48,16 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 
 一些不同的按键我们记录在下，大家如果有常见的电脑但是按键与以上不同的可以给我们提交Pull Request。
 
-|  笔记本品牌  |    按键     |
-|    ---      |     ---     |
-|  Thinkpad   |  Enter之后F1  |
+|  笔记本品牌  | 按键         |
+|  --------   | ------       |
+|  Thinkpad   | Enter之后F1  |
 |  Mac        |  Option      |
-|  Sony Vaio  |  Assist    |
+|  Sony Vaio  |  Assist      |
 
 3、进入grub，选择Ubuntu
 ![ros2go grub](https://github.com/tianbot/ros2go/raw/master/assets/images/grub.png)  
 
- - 我们提供了不同的内核供大家选择
+ - 如果选择Advanced options for Ubuntu，则可以选择系统内核。我们提供了两种内核供大家选择
    - HWE 4.15.0内核，硬件增强版，新硬件的功能支持更好
    - LTS 4.4.0内核，长期支持版，老配置的电脑更加稳定  
 
@@ -68,7 +68,7 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 
 ## 将系统装入自己的电脑：  
 1、关机状态下将U盘插入电脑。  
-2、进入Bios，选择启动项为Tianbot Ubuntu Live CD  
+2、进入Bios，选择Boot Tianbot ROS2GO LiveCD （HWE或者LTS都可以，这也对应上面提到的不同内核） 
 ![ros2go livecd](https://github.com/tianbot/ros2go/raw/master/assets/images/livecd.png) 
 3、就可以使用Live System（无法保存更改）或者安装Tianbot Ubuntu的镜像了  
 
