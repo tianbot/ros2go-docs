@@ -43,13 +43,33 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 ## 快速使用ROS TO GO：  
 1、关机状态下将U盘插入电脑。  
 2、进入Bios，需要打开UEFI启动方式，选择启动项为Tianbot ROS TO GO  
-![图片](https://images-cdn.shimo.im/mO3FawSWzyks98el/proxy.jfif!thumbnail)  
-3、进入grub，选择Ubuntu  
+
+现代电脑最常用的进入Bios按键为：F1，F2，F12，同时还有很多使用 Del，ESC，F9，F10，可以开机时重复快速按压试验。一般都可以成功看到Bios的画面。
+
+一些不同的按键我们记录在下，大家如果有常见的电脑但是按键与以上不同的可以给我们提交Pull Request。
+|  笔记本品牌  |    按键     |
+|    ---      |     ---     |
+|  Thinkpad   |  Enter之后F1  |
+|  Mac        |  Option      |
+|  Sony Vaio  |  Assist    |
+
+3、进入grub，选择Ubuntu
+![ros2go grub](https://github.com/tianbot/ros2go/raw/master/assets/images/grub.png)  
+
+ - 我们提供了不同的内核供大家选择
+   - HWE 硬件增强版，新硬件的功能支持更好
+   - LTS 长期支持版，老配置的电脑更加稳定
+![ros2go kernels](https://github.com/tianbot/ros2go/raw/master/assets/images/kernels.png) 
+
 4、现在是一个纯净的Ubuntu + ROS Kinetic，开始使用！  
 
-将系统装入自己的电脑：  
+
+## 将系统装入自己的电脑：  
 1、关机状态下将U盘插入电脑。  
 2、进入Bios，选择启动项为Tianbot Ubuntu Live CD  
-![图片](https://images-cdn.shimo.im/paITRmYTbIE7b2Z4/VirtualBox_Tianbot_ROS_to_Go_13_10_2018_16_20_47.png!thumbnail)  
+![ros2go livecd](https://github.com/tianbot/ros2go/raw/master/assets/images/livecd.png) 
 3、就可以使用Live System（无法保存更改）或者安装Tianbot Ubuntu的镜像了  
 
+## 进入系统
+不论是使用HDD还是LiveCD，看到如下画面就说明已经成功启动了！  
+![ros2go desktop](https://github.com/tianbot/ros2go/raw/master/assets/images/desktop.png) 
