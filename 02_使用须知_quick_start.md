@@ -74,7 +74,9 @@ http://www.ruanyifeng.com/blog/2013/01/secure_boot.html
 
 ## 进入系统
 不论是使用HDD还是LiveCD，看到如下画面就说明已经成功启动了！  
-请牢记以下信息：
-*** 用户名：tianbot ***
-*** 密码：ros ***
+请牢记以下信息： 
+
+  :sunglasses: ***用户名：tianbot***  
+  :key: ***密码：ros***  
+
 ![ros2go desktop](https://github.com/tianbot/ros2go/raw/master/assets/images/desktop.png) 
