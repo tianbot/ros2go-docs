@@ -6,8 +6,8 @@ permalink: /pre_installed_softwares/
 ## 操作系统 Operating System
 - Linux发行版 Ubuntu 16.04.5 LTS
 - Linux内核 （可在grub菜单中通过Advanced进行选择，在LiveCD启动中则可以直接选择）
-  - 4.15.0.39-generic HWE （硬件加强）
-  - 4.4.0.139-generic LTS （长期支持）
+  - 4.15.0.43-generic HWE （硬件加强）
+  - 4.4.0.141-generic LTS （长期支持）
 - ROS Kinetic
 
 ## 通用软件 Application Software
@@ -29,6 +29,7 @@ permalink: /pre_installed_softwares/
 - Gazebo
 - PR2
 - Universal Robot
+- Husky
 - HectorSLAM
 
 ### 源码安装 Installed from Source
@@ -56,5 +57,7 @@ Hokuyo Laserscanner urg_node, tested on URG-04LX-UG01.
 astra, astra_pro  
 
 - RealSense深度摄像头 RGB-D Camera, R200 D415 D435
-librealsense2 v2.16.3
-ROS Wrapper v2.1.1
+librealsense2 v2.2.1
+ROS Wrapper v2.2.3
+
+- Velodyne VLP-16

@@ -3,6 +3,18 @@ title: "更新日志 Updated Log"
 permalink: /updated_log/
 ---
 
+## v0.6 20190506
+1、系统更新  
+2、应用软件更新，WPS更新至2019  
+3、更新工作空间中一些源码。 
+
+
+## v0.5 
+1、系统内核更新  
+2、应用软件更新  
+3、增加一些常用功能包  
+4、更新tianbot_racecar功能包及其依赖至最新  
+5、关闭unattended upgrade  
 
 ## v0.4 20181128
 1、系统内核更新  

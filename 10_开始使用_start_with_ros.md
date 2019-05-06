@@ -10,12 +10,14 @@ permalink: /start_with_ros/
 
 当然，这里最推荐的还是参加关注各位老师的书籍以及视频。初学的话，可以看看睿慕课田老师的《给傻瓜的ROS入门课程》。有一些基础的话，可以看古月君的《ROS机器人开发实践》。
 
+## 测试roscore
 首先打开终端。 Ctrl + Alt + t, 输入
 
 ``` bash
 roscore
 ```
 
+## 测试turtlesim
 启动成功的话，再打开一个终端（Ctrl + Alt + t）或者终端标签页（Ctrl + Shift + t）
 
 ```
@@ -31,6 +33,7 @@ rosrun turtlesim turtle_teleop_key
 
 一般我们做完一个Demo，最好是把所有的终端全部关闭再开始下一个，保持这个习惯会减少一些不必要的疑惑。
 
+## 测试Stage仿真
 我们再来试一试turtlebot的导航仿真。新开终端并输入
 
 ```
@@ -39,6 +42,7 @@ roslaunch turtlebot_stage turtlebot_in_stage.launch
 稍等片刻就会在顶端出现一个配置很完善的RViz界面，可以用2D Nav Goal按钮来给turtlebot设置目标地点。左键单击按下去设定位置，不要松开，转动设定方向，然后松开左键。
 我们就能看到Turtlebot在迷宫中自主导航了！
 
+## 测试Gazebo仿真
 关于Gazebo中PR2和UR5的Demo，大家可以参考下古月君的博客。这两个Demo我们已经帮大家安装好了的， 忽略安装的部分。
 这里是传送门。
 
@@ -55,5 +59,21 @@ roslaunch ur_gazebo ur5.launch
 roslaunch ur5_moveit_config ur5_moveit_planning_execution.launchsim:=true
 roslaunch ur5_moveit_config moveit_rviz.launch config:=true
 ```
+
+## ROS小课堂的语音交互功能  
+
+注意需要调整麦克风的音量到合适位置，一般来说正常说话时候音量条不会超调也不会偏低，系统便可以正常响应。  
+唤醒词是“科文科文”,也就是ROS小课堂的Corvin的音译。
+
+```
+roslaunch voice_bringup voice_bringup.launch
+```
+
+## 测试stdr仿真
+
+```
+roslaunch stdr_navigation patrol_nav.launch
+```
+
 基本的ROS测试就是这样了，祝大家使用愉快～
 
