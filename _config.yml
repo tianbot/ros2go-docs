@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ROS2GO
+title: ROS2GO 用户手册 User Manual
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  ROS2GO (ROS To Go) 是一个高速闪存U盘。ROS2GO (ROS To GO) is a ready-to-go high speed USB flash drive
+  ROS2GO (ROS To Go) 是一个高速闪存U盘，是ROS入门学习的利器。ROS2GO (ROS To GO) is a ready-to-go high speed USB flash drive for novice ROS users.
 baseurl: "/ros2go"
 url: https://tianbot.github.io
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
