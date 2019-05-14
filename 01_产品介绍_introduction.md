@@ -5,7 +5,7 @@ permalink: /introduction/
 
 ## 购买
 淘宝链接：  
-https://item.taobao.com/item.htm?id=581432149596  
+[https://item.taobao.com/item.htm?id=581432149596](https://item.taobao.com/item.htm?id=581432149596)  
 零售价：RMB 599  
 
 ## ROS2GO 产品介绍  
