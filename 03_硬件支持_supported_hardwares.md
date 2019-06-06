@@ -124,4 +124,4 @@ If you only use ROS2GO on a laptop with BCM 43142 wifi adapter, please do not he
 https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx#Switching_between_drivers
 
 ### 黑名单： Black list：  
-抱歉，我们不支持任何360的外接WiFi设备。
+
