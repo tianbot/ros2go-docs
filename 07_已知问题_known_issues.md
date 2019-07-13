@@ -3,11 +3,14 @@ title: "已知问题 Known Issues"
 permalink: /known_issues/
 ---
 
+## :heavy_exclamation_mark: 不要安装RealVNC Viewer，会出现兼容性问题  
+- 很多初学者在操作实际机器人时，希望可以用远程桌面进行操作。这并不需要给ROS2GO上安装RealVNC， 可以使用系统内的Remmina Remote Desktop Client， 选择VNC的模式连接即可。已经有安装VNC导致无法进入桌面或者显示问题的案例，请不要在ROS2GO上安装VNC。
+
 ## ROS2GO的一些已知兼容性问题（注意此处大多数都是因为您的电脑与Ubuntu的兼容问题。如果您还没有选购电脑，应该尽量排除以下型号）
 
 - 在某些型号的电脑上不能正常关机。暂时未充分测试，现象各异，但是强关对您的电脑并无损伤。
 
-惠普暗影精灵三代15.6寸Pro i5 1050Ti 128G+1T  
+惠普暗影精灵三代15.6寸Pro i5 1050Ti 128G+1T  （17寸的暗影精灵没有问题）  
 
 联想小新 锐7000 可以查阅 https://www.zhihu.com/question/295711588  
 联想 拯救者  Y7000  
