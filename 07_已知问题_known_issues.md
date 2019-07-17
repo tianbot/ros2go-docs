@@ -3,6 +3,10 @@ title: "已知问题 Known Issues"
 permalink: /known_issues/
 ---
 
+## ROS2GO官方不提供安装到本地PC的服务与支持
+- ROS2GO设计的初衷就是非常安全的在本地PC上快速进入带有ROS的Ubuntu系统，具有快捷启动、便捷移动、安全方便的特点。在本机安装ROS2GO的系统，理论上是完全可行的，但是可能会出现功能异常。
+- 如果有时间可以自己折腾，可以参考csdn用户“静精进境”的文章[ROS2GO 与WIN10 双系统安装](https://blog.csdn.net/fzx1443678836/article/details/88718959)，但是同样不做任何保障，对本机进行任何操作之前请备份重要数据。  
+
 ## :heavy_exclamation_mark: 不要安装RealVNC Viewer，会出现兼容性问题  
 - 很多初学者在操作实际机器人时，希望可以用远程桌面进行操作。这并不需要给ROS2GO上安装RealVNC， 可以使用系统内的Remmina Remote Desktop Client， 选择VNC的模式连接即可。已经有安装VNC导致无法进入桌面或者显示问题的案例，请不要在ROS2GO上安装VNC。
 
@@ -12,7 +16,7 @@ permalink: /known_issues/
 
 惠普暗影精灵三代15.6寸Pro i5 1050Ti 128G+1T  （17寸的暗影精灵没有问题）  
 
-联想小新 锐7000 可以查阅 https://www.zhihu.com/question/295711588  
+联想小新 锐7000 可以查阅 [小新锐7000安装Ubuntu系统一直异常？](https://www.zhihu.com/question/295711588)    
 联想 拯救者  Y7000  
 
 ## 网卡驱动篇(主要是一些过新或奇葩的无线网卡)
