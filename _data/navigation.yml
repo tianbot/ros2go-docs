@@ -35,6 +35,10 @@ docs:
         url: /peripheral_devices/
       - title: "13. 工作空间 Workspaces"
         url: /workspaces/
+      - title: "14. 教程指南 Tutorials"
+        url: /tutorials/
+      - title: "15. 产品开发 Development"
+        url: /development/
           
   - title: 关于我们 About Us
     url: /about/
