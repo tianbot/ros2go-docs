@@ -23,7 +23,7 @@ ROS2GO （ROS To Go）是一个已经安装好Ubuntu和ROS系统，以及安装�
 密码： ros  
 主机名 hostname: ros2go  
 
-ROS2GO中带有价值不菲的视频课程，需要打开终端 （Ctrl + Alt + t） 输入ros2go_video， 回车等待就可以登入在线课程页面。内置的三门课程可以供大家入门学习使用。  
+ROS2GO中带有价值不菲的视频课程，需要打开终端 （Ctrl + Alt + t） 输入ros2go_video， 回车等待就可以登入在线课程页面。内置的三门课程可以供大家入门学习使用。 课程有三个月的观看时间限制，请大家一定抓紧时间学习。 
 《ROS For Dummies 给傻瓜的ROS入门视频课程》  
 《ROS机械臂开发实战》  
 《ROS移动机器人研发实战》  
