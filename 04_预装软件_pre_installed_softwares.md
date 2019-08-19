@@ -38,6 +38,7 @@ permalink: /pre_installed_softwares/
 - 古月robot_mrobot
 - 古月robot_marm
 - 古月ros_advanced
+- 古月PROBOT_Anno
 - STDR仿真器 stdr_simulator
 - 小课堂stdr_tutorials
 - 小课堂ros_voice语音交互功能包 Chinese version pocketsphinx
