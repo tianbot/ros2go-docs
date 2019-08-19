@@ -3,6 +3,17 @@ title: "更新日志 Updated Log"
 permalink: /updated_log/
 ---
 
+
+## v0.7 20190819
+1、修复ROS的key过期的问题  
+2、应用软件更新，VS Code更新至1.37.1  
+3、ROS系统更新  
+4、打开笔记本的电量显示  
+5、更新tianbot_racecar功能包与rf2o功能包。  
+6、加入古月PROBOT功能包  
+7、增加ROS2GO专属壁纸4张  
+8、桌面增加ROS2GO用户手册的web链接快捷方式  
+
 ## v0.6 20190506
 1、系统更新  
 2、应用软件更新，WPS更新至2019  
