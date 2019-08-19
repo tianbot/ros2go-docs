@@ -65,6 +65,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
+      related: true
       sidebar:
         nav: "docs"
 
