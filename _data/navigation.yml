@@ -30,7 +30,7 @@ docs:
       - title: "10. 开始使用 Start with ROS"
         url: /start_with_ros/
       - title: "11. 视频课程 Video Courses"
-        url: /advanced_functions/
+        url: /video_courses/
       - title: "12. 外接设备 Peripheral Devices"
         url: /peripheral_devices/
       - title: "13. 工作空间 Workspaces"
