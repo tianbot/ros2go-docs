@@ -1,6 +1,6 @@
 ---
 title: "物超所值的高级功能 Advanced Functions"
-permalink: /advanced_functions/
+permalink: /video_courses/
 ---
 
 ## 不可以估价的视频课程
