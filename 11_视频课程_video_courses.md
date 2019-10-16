@@ -1,5 +1,5 @@
 ---
-title: "物超所值的高级功能 Advanced Functions"
+title: "物超所值的视频课程 Video Courses"
 permalink: /video_courses/
 ---
 
