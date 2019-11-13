@@ -1,0 +1,17 @@
+<package>
+  <name>ros2go</name>
+  <version>0.7.0</version>
+  <description>
+    ROS2GO (ROS To Go) is a ready-to-go high speed USB flash drive, which has Ubuntu, ROS and commonly used packages installed, and can be booted from external USB drive.    
+  </description>
+  <maintainer email="tianb03@hotmail.com">Tian Bo</maintainer>
+  <license>BSD</license>
+
+  <url>http://ros.org/wiki/roslib</url>
+  <author email="tianb03@hotmail.com">Tian Bo</author>
+
+  <export>
+     <rosdoc config="doc.tianbot.com/ros2go" />
+  </export>
+</package>
+
